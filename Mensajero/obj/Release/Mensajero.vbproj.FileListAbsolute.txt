@@ -1,0 +1,12 @@
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Release\Mensajero.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Release\Mensajero.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Release\Mensajero.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Release\Cliente.dll
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Release\Servidor.dll
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Release\Mensajero.Form1.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Release\Mensajero.Resources.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Release\Mensajero.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Release\Mensajero.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Release\Mensajero.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Release\Mensajero.pdb

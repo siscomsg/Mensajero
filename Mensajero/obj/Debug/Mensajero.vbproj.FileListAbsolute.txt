@@ -1,0 +1,60 @@
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\bin\Debug\Mensajero.exe
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\bin\Debug\Mensajero.pdb
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\bin\Debug\Mensajero.xml
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\obj\Debug\Mensajero.Form1.resources
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\obj\Debug\Mensajero.Resources.resources
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\obj\Debug\Mensajero.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\obj\Debug\Mensajero.exe
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\obj\Debug\Mensajero.xml
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\Mensajero\obj\Debug\Mensajero.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.Form1.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.Resources.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Cliente.dll
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Servidor.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Cliente.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\bin\Debug\Servidor.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Cliente.dll
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Servidor.dll
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.Form1.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.Resources.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.exe
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.xml
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.pdb
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.exe
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.pdb
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Mensajero.xml
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Cliente.dll
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\bin\Debug\Servidor.dll
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.Form1.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\Mensajero.Resources.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Mensajero\Mensajero\obj\Debug\GenerateResource.write.1.tlog
